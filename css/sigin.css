@@ -1,0 +1,52 @@
+body{
+    background: lightgreen;
+}
+
+.icons{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+div.input{
+    margin-top: 100px;
+    margin-left: 450px;
+   
+}
+.out{
+    
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.in{
+    text-align: center;
+    width: 500px;
+    padding: 10px;
+}
+div.b{
+    margin-left: 120px;
+}
+.btn{
+  background: green;
+  color: white;
+  width: 200px;
+  border: white;
+  padding: 10px;
+  
+}
+div.n{
+    margin-left: 570px;
+    margin-top: 0px;
+}
+
+
+button a{
+    text-decoration: none;
+    color: white;
+}
+h4{
+    margin-top: 10px;
+    font-size: 15px;
+}

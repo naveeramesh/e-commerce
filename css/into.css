@@ -1,0 +1,67 @@
+ ul li{
+    float: left;
+    list-style: none;
+    padding: 20px;
+  
+
+}
+.m{
+    height: 60px;
+    background: grey;
+
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+.right{
+    float: right;
+}
+.k{
+    color: white;
+}
+.help{
+    margin-top: 15px;
+    margin-right: 50px;
+    width: 700px;
+    padding: 5px;
+   text-align: center;
+   
+    
+}
+.icons{
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 20px;
+}
+.word{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.j{
+    
+    height: 300px;
+    
+  
+}
+.images{
+        max-width: 20%;
+        display: inline-block;
+        margin: auto;
+        padding: 50px;
+        
+}
+div{
+    
+    margin-left: 10px;
+}
+.o{
+    margin-left: 10px;
+    color: orangered;
+}
+article a{
+    text-decoration: none;
+    color: black;
+}

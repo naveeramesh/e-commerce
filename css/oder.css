@@ -1,0 +1,100 @@
+ul{
+    list-style: none;
+   
+    background: rgb(101, 100, 109);
+    overflow: hidden;
+    margin-bottom: 0px;
+}
+li{
+    float: left;
+    padding: 20px;
+    
+}
+.right{
+    float:right;
+    text-decoration: underline;
+}
+li a{
+    color:white;
+    text-decoration: none;
+}
+li a:hover{
+    color:white;
+    text-decoration: none;
+}
+.Help{
+    
+    margin-top: 15px;
+    margin-right: 20px;
+    padding: 5px;
+    width: 700px;
+    
+}
+li a:hover{
+    
+    text-decoration: none;
+    
+    
+}
+.low{
+    background: white;
+    
+}
+ol.j{
+    float: left;
+    text-decoration: none;
+   
+   
+}
+ol a{
+    color: black;
+    text-decoration: none;
+    
+}
+ol a:hover{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+
+    
+     
+    }
+  
+
+ol.black{
+    float: right;
+    margin-right: 20px;
+}
+.row{
+    margin-top: 50px;
+   
+}
+.u{
+    margin-top: 10px;
+   float: left;
+   
+    
+}
+ol img:hover{
+    border: 1px solid black;
+}
+h6.c{
+    margin-top: 10px;
+}
+ol.h{
+    float: left;
+   
+    padding: 10px;
+}
+.btn{
+   
+    margin-top: 90px;
+    
+    
+
+}
+
+
+
+
+
